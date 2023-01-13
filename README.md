@@ -9,7 +9,7 @@ This is NOT a real Robux generator and is not affiliated, approved, or endorsed 
 - Python 3.11+
 
 ## 🥁 Running the Game 🥁
-After installing Python, simply run the .bat file (Windows)
+After installing Python and the repo files, simply run the .bat file (Windows)
 ### I'm working on developing compability for Mac, might take a while with my skills though 😅
 
 ## 💎 Credits 💎
