@@ -7,6 +7,7 @@ This is NOT a real Robux generator and is not affiliated, approved, or endorsed 
 
 ## 🥶 Dependencies 🥶
 - Python 3.11+
+- Google Chrome
 
 ## 🥁 Running the Game 🥁
 After installing Python and the repo files, simply run the .bat file (Windows)
